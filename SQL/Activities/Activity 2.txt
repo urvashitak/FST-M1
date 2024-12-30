@@ -1,0 +1,7 @@
+----Activity 2
+---In this activity, we will be inserting values in the table created in the last activity.
+insert into salesman values (1,'raj','pune',1);
+insert into salesman values(2,'McLyon','Paris', 14);
+insert into salesman values(3,'Paul Adam','Rome',13);
+
+Select * from salesman;

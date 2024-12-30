@@ -1,0 +1,14 @@
+---Activity 1
+    ---CREATE TABLE tableName(colName type, ...);
+----Name            | Datatype
+----------------+-------------
+---salesman_id     | int
+--salesman_name   | varchar2(20)
+--salesman_city   | varchar2(20)
+---commission      | int
+CREATE table salesman(
+    salesman_id int ,
+    salesman_name varchar(20),
+    salesman_city varchar(20),
+    commission int
+    );
