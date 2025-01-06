@@ -12,7 +12,7 @@
 	        hash_map.put(5, "Black");
 
 	        
-	        System.out.println( map: " + hash_map);
+	        System.out.println( "map: " + hash_map);
 	        
 	        // Remove one colour
 	        hash_map.remove(4);
