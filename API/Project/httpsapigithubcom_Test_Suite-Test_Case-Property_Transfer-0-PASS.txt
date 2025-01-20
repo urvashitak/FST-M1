@@ -1,0 +1,14 @@
+Status: PASS
+Time Taken: 136
+Size: 0
+Timestamp: Mon Jan 20 09:51:55 IST 2025
+TestStep: Property Transfer
+
+----------------- Messages ------------------------------
+Performed transfer [key]
+----------------------------------------------------
+key transferred [[115540913]] from [Request 2.Response] to [Request 3.keyId]
+------------ source path -------------
+$['id']
+------------ target path -------------
+
